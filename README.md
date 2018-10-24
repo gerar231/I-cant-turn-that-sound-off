@@ -1,2 +1,2 @@
 # I-cant-turn-that-sound-off
-Final Composition from Digital Signal (Sound) Processing Course (DXARTS 462).
+Final composition from digital signal (sound) processing course (DXARTS 462).
