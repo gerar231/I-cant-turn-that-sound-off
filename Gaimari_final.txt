@@ -1,0 +1,26 @@
+“I can't turn that sound off” exhibits a diverse portfolio of amplitude, rhythm and spectral textures in it’s composition. 
+The essence brings forth a rich variety of techniques in digital signal processing to manipulate human voices and develop 
+a narrative contextualized in recording, programming and understanding the nuances of digital signal processing as applied
+to a musical context.
+
+Noteworthy Influences: [Context]
+
+John Oswald - Bell Speeds: layering and looping of recordings to create brassage effect.
+Jonty Harrison - Unsound Objects: enveloped filtering and narrative composition.
+Joseph Anderson - Mpingo: vocal interludes and rapid progression in amplitude.
+Jean-Claude Risset - Sud: extensive use of dynamic and complementary combing filters.
+Paul Lansky - Six Fantasies: vocal manipulation with reverb and distortion.
+
+Techniques:
+
+- Looping & Time Segment Processing
+- Asynchronous and Synchronous Granular Synthesis (synthesis and re-sampling)
+- Finite Impulse Reponse (FIR) Filtering
+- Second order Infinite Impulse Response (IIR) Filtering
+- Comb FIR Filtering
+- Stereo Imaging Techniques (w/ applications of combing algorithms & panning)
+- Tremolo and Vibrato in imaging and filtering
+- Single Side Band Modulation & Filtering
+- Custom Reverberation Algorithms
+- Distortion Functions
+
